@@ -8,7 +8,10 @@
   - [ ] System model & scenario
     - [ ] LOS & NLOS pathloss
     - [ ] Street layout
-    - [ ] ML contexts
+  - [ ] ML parameters
+    - [ ] Contexts: ___
+    - [ ] Actions: ___
+    - [ ] Reward calculation: ___
 - [ ] Phase 2:
   - [ ] Experiment & results
   - [ ] Analysis (regret?)
