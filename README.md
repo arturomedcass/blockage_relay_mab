@@ -4,7 +4,7 @@
 
 - [x] Phase 0: To confirm commitment from Arturo.
 - [x] Phase 1:
-  - [ ] Problem definition (@Kadir to provide details)
+  - [x] Problem definition (@Kadir has provided details)
   - [ ] System model & scenario
     - [ ] LOS & NLOS pathloss
     - [ ] Street layout
