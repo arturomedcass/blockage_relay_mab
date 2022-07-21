@@ -6,8 +6,8 @@
 - [x] Phase 1:
   - [x] Problem definition (@Kadir has provided details)
   - [ ] System model & scenario
-    - [ ] LOS & NLOS pathloss
-    - [ ] Street layout
+    - [ ] LOS & NLOS pathloss (@Kadir) = ______.
+    - [ ] Street layout (@Arturo)
   - [ ] ML parameters
     - [ ] Contexts: ___
     - [ ] Actions: ___
