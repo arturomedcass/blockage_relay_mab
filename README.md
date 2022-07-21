@@ -13,8 +13,8 @@
     - [ ] Actions: ___
     - [ ] Reward calculation: ___
 - [ ] Phase 2:
-  - [ ] Experiment & results
-  - [ ] Analysis (regret?)
+  - [ ] Experiment & results (@Arturo)
+  - [ ] Analysis of Regret (@Haeyoung)
 - [ ] Phase 3 (mid-Aug to end-Oct): To complete the paper writing.
   - [ ] Create a paper template on Overleaf (@Kadir)
 
@@ -24,6 +24,6 @@ SUbmit to IEEE ICC 2023. Deadline: 11 October 2022
 
 ## Overleaf site for the paper
 
-(@Kadir, please create a template for this journal paper and put the link here).
+(@Kadir, please create a template for this conference paper and put the link here).
 
 Overleaf Link: ________
