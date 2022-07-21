@@ -3,7 +3,7 @@
 ## Work plan
 
 - [x] Phase 0: To confirm commitment from Arturo.
-- [ ] Phase 1:
+- [x] Phase 1:
   - [ ] Problem definition (@Kadir to provide details)
   - [ ] System model & scenario
     - [ ] LOS & NLOS pathloss
