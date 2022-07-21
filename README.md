@@ -7,6 +7,7 @@
   - [x] Problem definition (@Kadir has provided details)
   - [ ] System model & scenario
     - [ ] LOS & NLOS pathloss (@Kadir) = ______.
+    - [ ] (@Arturo to specify more questions here)
     - [ ] Street layout (@Arturo)
   - [ ] ML parameters
     - [ ] Contexts: ___
